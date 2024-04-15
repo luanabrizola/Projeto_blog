@@ -3,7 +3,6 @@ export default function SobreMimPage(){
     return(
         <body>
             <div className="container_luana">
-                <img src="/public/flor.jpeg" alt="" />
                 <h1>Luana</h1>
                 <p>Meu nome é Luana Rodrigues Brizola, nasci no dia 21/10/2006 e atualamente estou cursando o 
                     terceiro periodo do Ensino Médio Tecnico da UTPFR. Sempre gostei de mexer com computador e
