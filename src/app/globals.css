@@ -96,7 +96,6 @@ body{
 
 a{
   border: 1 solid black;
-  border-radius: 7px;
   color: white;
   background-color: var(--link);
 }
@@ -164,6 +163,7 @@ nav li {
 
 footer{
   background-color: var(--navBar);
+  
 }
 
 
