@@ -155,6 +155,15 @@ nav{
   background-color: var(--navBar);
 }
 
+
+
+nav li {
+  display: inline;
+  margin-right: 20px; 
+}
+
+
+
 .notfound{
   padding: 10px;
   margin: 150px;
