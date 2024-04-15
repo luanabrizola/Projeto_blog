@@ -1,4 +1,6 @@
 import React from 'react';
+import Image from 'next/image';
+
 
 const Home = () => {
   return (
@@ -13,6 +15,8 @@ const Home = () => {
         </a>
       </div>
       <div className="main-content">
+     
+        <Image src="/public/flor.png" alt="Minha Imagem" width={50} height={50} />
         <h1>Bem vindo</h1>
         <h2>Todos os projetos citados abaixo podem ser visualizados em meu GitHub. O link do meu perfil está na barra do lado esquerdo.</h2>
         <div className="boxes-container">

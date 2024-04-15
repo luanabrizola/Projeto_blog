@@ -2,6 +2,7 @@
 export default function SobreMimPage(){
     return(
         <body>
+            
             <div className="container_luana">
                 <h1>Luana</h1>
                 <p>Meu nome é Luana Rodrigues Brizola, nasci no dia 21/10/2006 e atualamente estou cursando o 
