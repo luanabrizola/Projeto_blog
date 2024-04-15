@@ -13,7 +13,7 @@ const Home = () => {
         </a>
       </div>
       <div className="main-content">
-        <h1 className="main-title">Bem-vindo</h1>
+        <h1>Bem vindo</h1>
         <h2>Todos os projetos citados abaixo podem ser visualizados em meu GitHub. O link do meu perfil está na barra do lado esquerdo.</h2>
         <div className="boxes-container">
           <div className="box">
