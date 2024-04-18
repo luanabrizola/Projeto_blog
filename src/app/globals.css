@@ -26,7 +26,7 @@ body{
 }
 
 
-.container {
+.container{
   display: flex;
 }
 
@@ -100,61 +100,9 @@ a{
   background-color: var(--link);
 }
 
-label{
-  border-radius: 5px;
-  color:var(--paragrafo);
-}
-
-input, textarea{
-  background-color: #e0aaff;
-}
-
-button{
-  background-color: var(--botao);
-  border-radius: 5px;
-  color: var(--paragrafo);
-}
-
-.container_contatos{
-    width: 300px;
-    height: auto;
-    padding: 10px;
-    border-radius: 15px;
-    margin: 20px auto;
-    margin-top: 100px;
-    background-color: var(--corBox);
-}
-
-.container_contatos>h1{
-  text-align: center;
-  color: var(--titulo);
-}
-
-.container_luana{
-  height: 200px;
-  width: auto;
-  background-color: #b197df;
-  padding: 10px;
-  margin-top: 50px;
-  border-radius: 15px;
-  margin: 150px;
-  
-}
-
-.container_luana h1{
-  text-align: center;
-  color: var(--titulo);
-}
-
-.container_luana p{
-  color: var(--paragrafo);
-}
-
 nav{
   background-color: var(--navBar);
 }
-
-
 
 nav li {
   display: inline;
@@ -163,15 +111,16 @@ nav li {
 
 footer{
   background-color: var(--navBar);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   
 }
-
 
 .notfound{
   padding: 10px;
   margin: 150px;
   margin-left: 200px;
-
 }
 
 .notfound h1{

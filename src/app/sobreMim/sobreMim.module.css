@@ -1,0 +1,17 @@
+.container_luana{
+    height: 200px;
+    width: auto;
+    background-color: #c3a7f3;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 15px;
+    margin: 150px;
+}
+
+.container_luana h1{
+    text-align: center;
+    color: var(--titulo);
+  }
+.container_luana p{
+  color: var(--paragrafo);
+}
