@@ -1,0 +1,24 @@
+.container_contatos{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px auto;
+    margin-top: 100px;
+    background-color: var(--corBox);
+}
+
+.container_contatos h1{
+    text-align: center;
+    color: var(--titulo);
+}
+
+.button{
+    background-color: var(--botao);
+    border-radius: 5px;
+    color: var(--paragrafo);
+}
+
+.escrever{
+    background-color: var(--fundo);
+}
